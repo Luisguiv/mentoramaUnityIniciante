@@ -1,5 +1,6 @@
 <!--- Imagens -->
 [imagem-sceneMove]:/Modulo1/sceneMove.gif
+[imagem-greyBox]:/Modulo2/greyBox.gif
 
 # mentoramaUnityIniciante
 
@@ -13,3 +14,9 @@ Versão do Unity: **2021.3.13f1**
 ![][imagem-sceneMove]
 
 [Link para o arquivo de layout.](/Modulo1/layout.wlt)
+
+## Modulo 2
+
+**Lição:** Exportar um projeto *greybox*, fazendo uso de prefabs.
+
+![][imagem-greyBox]
