@@ -20,3 +20,7 @@ Versão do Unity: **2021.3.13f1**
 **Lição:** Exportar um projeto *greybox*, fazendo uso de prefabs.
 
 ![][imagem-greyBox]
+
+## Modulo 3
+
+**Lição:** Implementar um código que realize o cálculo de quantidade de cédulas de um valor.
