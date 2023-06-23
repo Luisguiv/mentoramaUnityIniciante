@@ -13,9 +13,9 @@ Versão do Unity: **2021.3.13f1**
 
 **Lição:** ambientalizar-se com o Unity, alterar a disposiçâo das janelas e movimentaçâo dentro da cena, incluindo objetos.
 
-![][imagem-sceneMove]
-
 [Link para o arquivo de layout.](/Modulo1/layout.wlt)
+
+![][imagem-sceneMove]
 
 ## Modulo 2
 
