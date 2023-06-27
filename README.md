@@ -3,6 +3,7 @@
 [imagem-greyBox]:/Modulo2/greyBox.gif
 [imagem-console]:/Modulo3/console.png
 [imagem-serializedField]:/Modulo3/serializedField.png
+[imagem-ui]:/Modulo4/ui.gif
 
 # mentoramaUnityIniciante
 
@@ -32,3 +33,15 @@ Versão do Unity: **2021.3.13f1**
 | Console | SerializedField |
 | :----: | :----: |
 | ![][imagem-console] | ![][imagem-serializedField] |
+
+## Modulo 4
+
+Quarta atividade do módulo:<br/>
+Exportar build com 3 funcionalidades:<br/>
+- dropdown: resolução;
+- checkbox: fullscreen;
+- button: close apllication.
+
+[Link para o script.](/Modulo4/uiController.cs)
+
+![][imagem-ui]
