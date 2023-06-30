@@ -4,6 +4,7 @@
 [imagem-console]:/Modulo3/console.png
 [imagem-serializedField]:/Modulo3/serializedField.png
 [imagem-ui]:/Modulo4/ui.gif
+[imagem-puzzle]:/Modulo5/ProjetoAulas/puzzle.gif
 
 # mentoramaUnityIniciante
 
@@ -36,7 +37,7 @@ Versão do Unity: **2021.3.13f1**
 
 ## Modulo 4
 
-Quarta atividade do módulo:<br/>
+**Lição:**<br/>
 Exportar build com 3 funcionalidades:<br/>
 - dropdown: resolução;
 - checkbox: fullscreen;
@@ -49,5 +50,11 @@ Exportar build com 3 funcionalidades:<br/>
 ## Modulo 5
 
 ### Projeto ensinado
+
+**Visto em aula:** Implementar um jogo de perguntas e respostas, utilizando elementos UI.
+
+[Link para o script.](/Modulo5/ProjetoAulas/src)
+
+![][imagem-puzzle]
 
 ### Projeto da licao
