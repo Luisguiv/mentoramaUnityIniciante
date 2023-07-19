@@ -12,7 +12,7 @@ public class calculaCedulas : MonoBehaviour
         { 1, 0 }, { 0.5, 0 }, { 0.25, 0 }, { 0.10, 0 }, { 0.5, 0 }, { 0.1, 0 }
     };
 
-    // Start is called before the first frame update
+    // adsdadasdasd
     void Start()
     {
         if (valor >= 100)
