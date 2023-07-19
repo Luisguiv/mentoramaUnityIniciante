@@ -5,6 +5,8 @@
 [imagem-serializedField]:/Modulo3/serializedField.png
 [imagem-ui]:/Modulo4/ui.gif
 [imagem-puzzle]:/Modulo5/ProjetoAulas/puzzle.gif
+[imagem-race]:/Modulo6/race.gif
+[imagem-ball]:/Modulo7/ball.gif
 
 # mentoramaUnityIniciante
 
@@ -61,3 +63,19 @@ Exportar build com 3 funcionalidades:<br/>
 ---
 
 ### Projeto da licao
+
+## Modulo 6
+
+**Lição:** Desenvolver um projeto on deve instanciar scenes de forma aditiva conforme o player vai andando no mapa.
+
+[Link para o script.](/Modulo6/)
+
+![][imagem-race]
+
+## Modulo 7
+
+**Lição:** Desenvolver um projeto on deve criar objeto colocando força no vetor Y, para manter o máximo de tempo no ar.
+
+[Link para o script.](/Modulo7/)
+
+![][imagem-ball]
