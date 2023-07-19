@@ -36,6 +36,7 @@ Versão do Unity: **2021.3.13f1**
 | ![][imagem-console] | ![][imagem-serializedField] |
 
 ## Modulo 4
+### obs: A checkbox está com a funcionalidade invertida, *windowed* quando desmarcada e *fullscreen* quando marcada.
 
 **Lição:**<br/>
 Exportar build com 3 funcionalidades:<br/>
