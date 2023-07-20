@@ -7,6 +7,7 @@
 [imagem-puzzle]:/Modulo5/ProjetoAulas/puzzle.gif
 [imagem-race]:/Modulo6/race.gif
 [imagem-ball]:/Modulo7/ball.gif
+[imagem-carshow]:/Modulo8/carShow.gif
 
 # mentoramaUnityIniciante
 
@@ -79,3 +80,11 @@ Exportar build com 3 funcionalidades:<br/>
 [Link para o script.](/Modulo7/)
 
 ![][imagem-ball]
+
+## Modulo 8
+
+**Lição:** Importar assets de uma cidade no projeto e criar modelos de prefab.
+
+[Link para o script.](/Modulo8/)
+
+![][imagem-carshow]
